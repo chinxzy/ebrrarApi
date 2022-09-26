@@ -13,28 +13,28 @@
         "name": "mercy",
         "image": "food.png",
         "desc": "basmati Jollof Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
-        "price": 3500
+        "price": 3000
       },
       {
         "id": 2,
         "name": "mercy",
         "image": "food.png",
         "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
-        "price": 3500
+        "price": 4000
       },
       {
         "id": 3,
         "name": "mercy",
         "image": "food.png",
         "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
-        "price": 3500
+        "price": 2500
       },
       {
         "id": 4,
         "name": "mercy",
         "image": "food.png",
         "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
-        "price": 3500
+        "price": 3800
       }
     ],
     "drinks": [
