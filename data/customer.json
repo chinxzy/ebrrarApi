@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "meal": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+      "extra": "",
+      "drink": "Sprite",
+      "fruit": "Banana",
+      "id": 1
+    },
+    {
+      "meal": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+      "extra": "",
+      "drink": "",
+      "fruit": "",
+      "id": 2
+    }
+  ]
+}
