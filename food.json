@@ -1,0 +1,83 @@
+{
+  "data": {
+    "menu": [
+      {
+        "id": 0,
+        "name": "mercy",
+        "image": "food.png",
+        "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+        "price": 3500
+      },
+      {
+        "id": 1,
+        "name": "mercy",
+        "image": "food.png",
+        "desc": "basmati Jollof Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+        "price": 3500
+      },
+      {
+        "id": 2,
+        "name": "mercy",
+        "image": "food.png",
+        "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+        "price": 3500
+      },
+      {
+        "id": 3,
+        "name": "mercy",
+        "image": "food.png",
+        "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+        "price": 3500
+      },
+      {
+        "id": 4,
+        "name": "mercy",
+        "image": "food.png",
+        "desc": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+        "price": 3500
+      }
+    ],
+    "drinks": [
+      {
+        "id": 0,
+        "drink": "Coke"
+      },
+      {
+        "id": 1,
+        "drink": "Fanta"
+      },
+      {
+        "id": 2,
+        "drink": "Sprite"
+      }
+    ],
+    "fruits": [
+      {
+        "id": 0,
+        "fruit": "Apple"
+      },
+      {
+        "id": 1,
+        "fruit": "Orange"
+      },
+      {
+        "id": 2,
+        "fruit": "Banana"
+      }
+    ],
+    "extras": [
+      {
+        "id": 0,
+        "extra": "Gizzard"
+      },
+      {
+        "id": 1,
+        "extra": "Dodo"
+      },
+      {
+        "id": 2,
+        "extra": "Turkey"
+      }
+    ]
+  }
+}
