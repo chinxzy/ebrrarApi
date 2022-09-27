@@ -40,43 +40,52 @@
     "drinks": [
       {
         "id": 0,
-        "drink": "Coke"
+        "drink": "Coke",
+        "price": 350
       },
       {
         "id": 1,
-        "drink": "Fanta"
+        "drink": "Fanta",
+        "price": 350
       },
       {
         "id": 2,
-        "drink": "Sprite"
+        "drink": "Sprite",
+        "price": 350
       }
     ],
     "fruits": [
       {
         "id": 0,
         "fruit": "Apple"
+        "price": 250
       },
       {
         "id": 1,
-        "fruit": "Orange"
+        "fruit": "Orange",
+        "price": 150
       },
       {
         "id": 2,
         "fruit": "Banana"
+        "price": 400
       }
     ],
     "extras": [
       {
         "id": 0,
-        "extra": "Gizzard"
+        "extra": "Gizzard",
+        "price": 1000
       },
       {
         "id": 1,
-        "extra": "Dodo"
+        "extra": "Dodo",
+        "price": 350
       },
       {
         "id": 2,
-        "extra": "Turkey"
+        "extra": "Turkey",
+        "price": 1900
       }
     ]
   }
