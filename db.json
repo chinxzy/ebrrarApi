@@ -57,7 +57,7 @@
     "fruits": [
       {
         "id": 0,
-        "fruit": "Apple"
+        "fruit": "Apple",
         "price": 250
       },
       {
